@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{7AE01A74-72F3-4F91-8B7C-A8BC0D1C7CA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.PalindromeChecker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PalindromeChecker/Program.cs">
+    <Files>
+      <File FileName="PalindromeChecker/Program.cs" Line="91" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
